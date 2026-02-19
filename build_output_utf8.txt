@@ -1,0 +1,8 @@
+﻿
+> emoji-to-photo-converter-pro@1.0.0 build
+> tsc && vite build
+
+src/components/DownloadSection.tsx(2,31): error TS6133: 'Share2' is declared but its value is never read.
+src/components/ImageEditor.tsx(3,69): error TS6133: 'ZoomOut' is declared but its value is never read.
+src/components/ImageEditor.tsx(19,41): error TS6133: 'croppedArea' is declared but its value is never read.
+src/components/ImageEditorModal.tsx(5,15): error TS6133: 'Minimize' is declared but its value is never read.

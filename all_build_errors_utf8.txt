@@ -1,0 +1,1 @@
+﻿src/components/ImageEditor.tsx(19,41): error TS6133: 'croppedArea' is declared but its value is never read.

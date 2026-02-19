@@ -1,0 +1,3 @@
+﻿src/components/DownloadSection.tsx(2,31): error TS6133: 'Share2' is declared but its value is never read.
+src/components/ImageEditor.tsx(3,69): error TS6133: 'ZoomOut' is declared but its value is never read.
+src/components/ImageEditor.tsx(19,41): error TS6133: 'croppedArea' is declared but its value is never read.
